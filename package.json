@@ -4,8 +4,8 @@
   "description": "simple api with vanilla node js ",
   "main": "app.js",
   "scripts": {
-    "start": "node server,js",
-    "dev": "nodemon server.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "drogan120",
   "license": "ISC",
